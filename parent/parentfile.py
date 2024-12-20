@@ -4,4 +4,4 @@ def baseparent():
     print("We are in base func parent")
 
 def callchild():
-    print(ch.childfunc())
+    print("We are in base func parent 1")
