@@ -1,4 +1,4 @@
-import child as ch
+import child.childfile as ch
 
 def baseparent():
     print("We are in base func parent")
