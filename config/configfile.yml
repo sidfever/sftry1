@@ -1,0 +1,5 @@
+table:
+- type: PK
+  options:
+    columns:
+      - hcp_id
